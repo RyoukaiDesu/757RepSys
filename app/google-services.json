@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1023494351980",
+    "project_id": "repsys-f4444",
+    "storage_bucket": "repsys-f4444.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023494351980:android:ee13e28671fec09ca53c49",
+        "android_client_info": {
+          "package_name": "com.example.a757repsys"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1023494351980-52fhrli5q2lselaikms32srknrff4vd2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-_e45tpGXWlTV9MbH77PXVihGv4FnYoY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1023494351980-52fhrli5q2lselaikms32srknrff4vd2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">757RepSys</string>
+    <string-array name="Emergency">
+        <item>Select Category</item>
+        <item>Assault/Violence</item>
+        <item>Medical</item>
+        <item>Accident Involving Animals</item>
+        <item>Road Traffic Accident</item>
+        <item>Sports Related Injuries</item>
+        <item>Fatal Accident</item>
+        <item>Actions Against Police</item>
+        <item>Theft</item>
+        <item>Breaking And Entering</item>
+        <item>Trespassing</item>
+        <item>Fire</item>
+        <item>Stranded (Flood)</item>
+    </string-array>
+
+    <string-array name="Reports">
+        <item>Select Category</item>
+        <item>Disturbance</item>
+        <item>Destruction of Property</item>
+        <item>Informal Settlers</item>
+        <item>COVID-19 Lock Down Violations</item>
+        <item>Waste Management</item>
+        <item>Construction Issues</item>
+        <item>Stray Animals</item>
+        <item>Engineering(Broken Lights, Broken Pipes, etc.</item>
+    </string-array>
+</resources>
